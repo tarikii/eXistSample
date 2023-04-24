@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <id_character>1</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>1</id_weapon>
+        <name>Peashooter</name>
+        <image>peashooter.jpg</image>
+        <health>350</health>
+        <variant>fire</variant>
+        <abilities>
+            <ability>Chili Bean</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>2</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>2</id_weapon>
+        <name>Sunflower</name>
+        <image>sunflower.jpg</image>
+        <health>350</health>
+        <variant>dark</variant>
+        <abilities>
+            <ability>Heal Beam</ability>
+        </abilities>
+        <FPSClass>Healer Class</FPSClass>
+    </character>
+    <character>
+        <id_character>3</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>3</id_weapon>
+        <name>Chomper</name>
+        <image>chomper.jpg</image>
+        <health>350</health>
+        <variant>toxic</variant>
+        <abilities>
+            <ability>Goop</ability>
+        </abilities>
+        <FPSClass>Oneshooter Class</FPSClass>
+    </character>
+    <character>
+        <id_character>4</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>4</id_weapon>
+        <name>Cactus</name>
+        <image>cactus.jpg</image>
+        <health>350</health>
+        <variant>ice</variant>
+        <abilities>
+            <ability>Potato</ability>
+        </abilities>
+        <FPSClass>Sniper Class</FPSClass>
+    </character>
+    <character>
+        <id_character>5</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>5</id_weapon>
+        <name>Citron</name>
+        <image>citron.jpg</image>
+        <health>350(600 with shield)</health>
+        <variant>electric</variant>
+        <abilities>
+            <ability>EMPeach</ability>
+            <ability>Shielder Class</ability>
+        </abilities>
+        <FPSClass>Shielder Class</FPSClass>
+    </character>
+    <character>
+        <id_character>6</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>6</id_weapon>
+        <name>Rose</name>
+        <image>rose.jpg</image>
+        <health>350</health>
+        <variant>fire</variant>
+        <abilities>
+            <ability>Time Snare</ability>
+        </abilities>
+        <FPSClass>Support Class</FPSClass>
+    </character>
+    <character>
+        <id_character>7</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>7</id_weapon>
+        <name>Kernel Corn</name>
+        <image>kernel_corn.jpg</image>
+        <health>350</health>
+        <variant>BBQ</variant>
+        <abilities>
+            <ability>Barrage</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>8</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>8</id_weapon>
+        <name>Torchwood</name>
+        <image>torchwood.jpg</image>
+        <health>350(500 while transformed)</health>
+        <variant>none</variant>
+        <abilities>
+            <ability>Smoldering</ability>
+        </abilities>
+        <FPSClass>Tank Class</FPSClass>
+    </character>
+    <character>
+        <id_character>9</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>9</id_weapon>
+        <name>Fire Pea</name>
+        <image>fire_pea.jpg</image>
+        <health>350</health>
+        <variant>toxic</variant>
+        <abilities>
+            <ability>Hyper</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>10</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>10</id_weapon>
+        <name>Mystic Flower</name>
+        <image>mystic_flower.jpg</image>
+        <health>350</health>
+        <variant>puppy</variant>
+        <abilities>
+            <ability>Sunbeam</ability>
+        </abilities>
+        <FPSClass>Healer Class</FPSClass>
+    </character>
+    <character>
+        <id_character>11</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>11</id_weapon>
+        <name>Hot Rod Chomper</name>
+        <image>hot_rod_chomper.jpg</image>
+        <health>350</health>
+        <variant>vampire</variant>
+        <abilities>
+            <ability>Sticky</ability>
+        </abilities>
+        <FPSClass>Oneshooter Class</FPSClass>
+    </character>
+    <character>
+        <id_character>12</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>12</id_weapon>
+        <name>Camo Cactus</name>
+        <image>camo_cactus.jpg</image>
+        <health>350</health>
+        <variant>camo</variant>
+        <abilities>
+            <ability>Mine</ability>
+        </abilities>
+        <FPSClass>Sniper Class</FPSClass>
+    </character>
+    <character>
+        <id_character>13</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>13</id_weapon>
+        <name>Frozen Citron</name>
+        <image>frozen_citron.jpg</image>
+        <health>350(600 with shield)</health>
+        <variant>orange</variant>
+        <abilities>
+            <ability>Citron Ball</ability>
+        </abilities>
+        <FPSClass>Shielder Class</FPSClass>
+    </character>
+    <character>
+        <id_character>14</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>14</id_weapon>
+        <name>Druid Rose</name>
+        <image>druid_rose.jpg</image>
+        <health>350</health>
+        <variant>ice</variant>
+        <abilities>
+            <ability>Arcane</ability>
+        </abilities>
+        <FPSClass>Support Class</FPSClass>
+    </character>
+    <character>
+        <id_character>15</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>15</id_weapon>
+        <name>BBQ Corn</name>
+        <image>bbq_corn.jpg</image>
+        <health>350</health>
+        <variant>camo</variant>
+        <abilities>
+            <ability>Butter</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>16</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>16</id_weapon>
+        <name>Ice Pea</name>
+        <image>ice_pea.jpg</image>
+        <health>350</health>
+        <variant>electric</variant>
+        <abilities>
+            <ability>Sombrero</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>17</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>17</id_weapon>
+        <name>Power Flower</name>
+        <image>power_flower.jpg</image>
+        <health>350</health>
+        <variant>vampire</variant>
+        <abilities>
+            <ability>Heal</ability>
+        </abilities>
+        <FPSClass>Healer Class</FPSClass>
+    </character>
+    <character>
+        <id_character>18</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>18</id_weapon>
+        <name>Toxic Chomper</name>
+        <image>toxic_chomper.jpg</image>
+        <health>350</health>
+        <variant>champ</variant>
+        <abilities>
+            <ability>Spikeweed</ability>
+        </abilities>
+        <FPSClass>Oneshooter Class</FPSClass>
+    </character>
+    <character>
+        <id_character>19</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>19</id_weapon>
+        <name>Fire Cactus</name>
+        <image>fire_cactus.jpg</image>
+        <health>350</health>
+        <variant>camo</variant>
+        <abilities>
+            <ability>Tallnut</ability>
+        </abilities>
+        <FPSClass>Sniper Class</FPSClass>
+    </character>
+    <character>
+        <id_character>20</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>20</id_weapon>
+        <name>Electro Citron</name>
+        <image>electro_citron.jpg</image>
+        <health>350(600 with shield)</health>
+        <variant>meth</variant>
+        <abilities>
+            <ability>Peel Shield</ability>
+        </abilities>
+        <FPSClass>Shielder Class</FPSClass>
+    </character>
+    <character>
+        <id_character>21</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>21</id_weapon>
+        <name>Fire Rose</name>
+        <image>fire_rose.jpg</image>
+        <health>350</health>
+        <variant>babilonga</variant>
+        <abilities>
+            <ability>Goatify</ability>
+        </abilities>
+        <FPSClass>Support Class</FPSClass>
+    </character>
+    <character>
+        <id_character>22</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>22</id_weapon>
+        <name>Mob Cob</name>
+        <image>mob_cob.jpg</image>
+        <health>350</health>
+        <variant>BBQ</variant>
+        <abilities>
+            <ability>Shuck Shot</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>23</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>23</id_weapon>
+        <name>Toxic Pea</name>
+        <image>toxic_pea.jpg</image>
+        <health>350</health>
+        <variant>plasma</variant>
+        <abilities>
+            <ability>Bean Bomb</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>24</id_character>
+        <id_character_type>1</id_character_type>
+        <id_weapon>24</id_weapon>
+        <name>Fire Flower</name>
+        <image>fire_flower.jpg</image>
+        <health>350</health>
+        <variant>mystic</variant>
+        <abilities>
+            <ability>Solar Flare</ability>
+        </abilities>
+        <FPSClass>Healer Class</FPSClass>
+    </character>
+    <character>
+        <id_character>25</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>25</id_weapon>
+        <name>Foot Soldier</name>
+        <image>foot_soldier.jpg</image>
+        <health>350</health>
+        <variant>camo</variant>
+        <abilities>
+            <ability>Stink Cloud</ability>
+        </abilities>
+        <FPSClass>Soldier Class</FPSClass>
+    </character>
+    <character>
+        <id_character>26</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>26</id_weapon>
+        <name>Engineer</name>
+        <image>engineer.jpg</image>
+        <health>350</health>
+        <variant>nasa</variant>
+        <abilities>
+            <ability>Blaster</ability>
+        </abilities>
+        <FPSClass>Engineer Class</FPSClass>
+    </character>
+    <character>
+        <id_character>27</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>27</id_weapon>
+        <name>Scientist</name>
+        <image>scientist.jpg</image>
+        <health>350</health>
+        <variant>krav</variant>
+        <abilities>
+            <ability>Explody Ball</ability>
+        </abilities>
+        <FPSClass>Medic Class</FPSClass>
+    </character>
+    <character>
+        <id_character>28</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>28</id_weapon>
+        <name>All-Star</name>
+        <image>allstar.jpg</image>
+        <health>350(600 with shield)</health>
+        <variant>champion</variant>
+        <abilities>
+            <ability>Dummy</ability>
+        </abilities>
+        <FPSClass>Tank Class</FPSClass>
+    </character>
+    <character>
+        <id_character>29</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>29</id_weapon>
+        <name>Imp</name>
+        <image>imp.jpg</image>
+        <health>350(650 while transformed)</health>
+        <variant>none</variant>
+        <abilities>
+            <ability>Impossible</ability>
+            <ability>Gravity</ability>
+        </abilities>
+        <FPSClass>Assault Class</FPSClass>
+    </character>
+    <character>
+        <id_character>30</id_character>
+        <id_character_type>2</id_character_type>
+        <id_weapon>30</id_weapon>
+        <name>Captain Deadbeard</name>
+        <image>captain_deadbeard.jpg</image>
+        <health>350</health>
+        <variant>Captain fireball</variant>
+        <abilities>
+            <ability>Mega heal</ability>
+        </abilities>
+        <FPSClass>Sniper Class</FPSClass>
+    </character>
+</characters>
