@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.xeill.elpuig"},{"l":"net.xeill.elpuig.controller"},{"l":"net.xeill.elpuig.view"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"net.xeill.elpuig.controller","l":"ExistController"},{"p":"net.xeill.elpuig","l":"Main"},{"p":"net.xeill.elpuig.view","l":"Menu"}];updateSearchResults();

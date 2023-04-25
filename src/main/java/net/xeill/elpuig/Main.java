@@ -7,8 +7,21 @@ import javax.xml.xquery.XQException;
 import javax.xml.xquery.XQResultSequence;
 import java.util.Scanner;
 
+/**
+ * Esta clase es la que gestionara lo que el usuario ponga por terminal, llamando a los metodos necesarios de cada opción
+ */
 public class Main {
 
+    /**
+     * Constructor vacio del main
+     */
+    public Main(){}
+
+    /**
+     * El metodo que basicamente ejecutara nuestra aplicación, mostrara el menu y donde el usuario escribira la opcion que desea
+     * @param args los argumentos por parametro que se le pasan
+     * @throws XQException Si ocurre un error, saltara esta excepcion
+     */
     public static void main(String[] args) throws XQException {
         ExistController ec = new ExistController();
         Scanner scanner = new Scanner(System.in);
